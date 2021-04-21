@@ -1,6 +1,6 @@
 # javascript-challenge
 
-![image](https://user-images.githubusercontent.com/75814058/115527113-9d463800-a245-11eb-8b96-da2c923da617.png)
+[image](https://user-images.githubusercontent.com/75814058/115527113-9d463800-a245-11eb-8b96-da2c923da617.png)
 
 
 
