@@ -1,0 +1,61 @@
+* {
+  color: #afe0e0;
+}
+
+html, body {
+  background-image: url(/static/images/46804.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 95%;
+  width: 100%;
+  padding: 0%;
+  margin: 0%;
+  background-color: teal;
+}
+
+.wrapper {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+#table {
+  display: flex;
+  overflow-y: scroll;
+  height: 60%;
+  width: 110%;
+  padding: 0%;
+  margin: 0%;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.table{
+  background-color: rgba(33, 17, 78, 0.548);
+}
+
+thead {
+  background-color: rgba(19, 29, 87, 0.555);
+}
+
+tbody {
+  font-size: .8rem;
+}
+
+tbody>tr>:nth-child(2){ 
+  text-transform: capitalize;
+}
+
+tbody>tr>:nth-child(3){ 
+  text-transform: uppercase;
+}
+
+tbody>tr>:nth-child(4){ 
+  text-transform: uppercase;
+}
